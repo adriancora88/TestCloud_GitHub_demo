@@ -67,6 +67,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TC Sum\\Sum.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "e541051f-659a-4c66-baa7-f6db945e3d16",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TC Sum\\GitHub_demo.xaml"
       }
     ],
     "saveToCloud": false
