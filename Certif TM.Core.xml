@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Certif TM.Core</name>
+    </assembly>
+    <members>
+        <member name="M:CertifTM.WorkflowRunnerService.ACME_table_TestCase(System.Boolean)">
+            <summary>
+            Invokes the ACME table/TestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.ACME_table_TestCase">
+            <summary>
+            Invokes the ACME table/TestCase.xaml
+            </summary>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64,System.Boolean)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.Sum(System.Boolean)">
+            <summary>
+            Invokes the TC Sum/Sum.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.Sum">
+            <summary>
+            Invokes the TC Sum/Sum.xaml
+            </summary>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.TC01_Login(System.Boolean)">
+            <summary>
+            Invokes the UiBank/TC01_Login.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.TC01_Login">
+            <summary>
+            Invokes the UiBank/TC01_Login.xaml
+            </summary>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.TestCase(System.Boolean)">
+            <summary>
+            Invokes the TestCase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:CertifTM.WorkflowRunnerService.TestCase">
+            <summary>
+            Invokes the TestCase.xaml
+            </summary>
+        </member>
+    </members>
+</doc>

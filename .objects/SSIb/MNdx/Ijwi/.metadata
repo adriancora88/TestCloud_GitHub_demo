@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Login Screen",
+  "Type": "Screen",
+  "Id": "Ijwi5HevEkKukYZQ6VWdBQ",
+  "Reference": "8zAHOi1BYkKLnRZ219lkeg/Ijwi5HevEkKukYZQ6VWdBQ",
+  "ParentRef": "8zAHOi1BYkKLnRZ219lkeg/MNdxHBbv90ezc8K1FDBBcg",
+  "Created": "2026-11-17T10:36:52.6948437Z",
+  "Updated": "2026-11-17T10:36:52.6948437Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

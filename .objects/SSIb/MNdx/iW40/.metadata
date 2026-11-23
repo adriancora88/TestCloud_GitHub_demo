@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Accounts Screen",
+  "Type": "Screen",
+  "Id": "iW40D5AhYUulQ08JHdxzIg",
+  "Reference": "8zAHOi1BYkKLnRZ219lkeg/iW40D5AhYUulQ08JHdxzIg",
+  "ParentRef": "8zAHOi1BYkKLnRZ219lkeg/MNdxHBbv90ezc8K1FDBBcg",
+  "Created": "2026-11-17T10:44:07.2490561Z",
+  "Updated": "2026-11-17T10:44:07.2490561Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

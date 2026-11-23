@@ -1,0 +1,11 @@
+﻿{
+  "Name": "UiBank",
+  "Type": "App",
+  "Id": "SSIb-Op_UkKf9BjWkt0zfw",
+  "Reference": "8zAHOi1BYkKLnRZ219lkeg/SSIb-Op_UkKf9BjWkt0zfw",
+  "Created": "2026-11-17T10:31:00.0687566Z",
+  "Updated": "2026-11-17T10:31:00.0687566Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
